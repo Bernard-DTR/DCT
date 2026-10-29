@@ -1,0 +1,2 @@
+#000 J  29/10/2026 Création du dépôt GitHub pour le projet DCT
+#001 J  30/10/2026 Ajout git dans l'application VB
