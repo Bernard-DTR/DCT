@@ -1,3 +1,4 @@
 #000 J  29/10/2026 Création du dépôt GitHub pour le projet DCT
 #001 J  30/10/2026 Ajout git dans l'application VB
 #002 J  31/10/2026 Push du projet DCT sur GitHub
+#003 J  01/11/2026 Push 2 du projet DCT sur GitHub après mise à jour du compte Bernard_DTR
